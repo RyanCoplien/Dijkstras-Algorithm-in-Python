@@ -1,6 +1,6 @@
 #-----------------------------------------------------------------------
 # Name: Ryan Coplien
-# Project: Homework 3 (LinkState Dijkstra Algorithm)
+# Project: LinkState Dijkstra Algorithm
 # Course: 3830 Data Communications and Computer Networking
 #-----------------------------------------------------------------------
 import heapq as heapQueue
