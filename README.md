@@ -5,5 +5,5 @@ The output is a calculation of the shortest path from the source node to every o
 
 The program uses a heap queue framework implemented for the program. Online resources were used to help with a better complexity.
 
-***HOW TO USE****
+***HOW TO USE***:
 I have developed an additional batch file. Please place the directory to the LinkState file and the data file and run the batch file.
