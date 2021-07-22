@@ -1,4 +1,4 @@
-# Dijkstras-Algorithm-in-Python
+# Dijkstras Algorithm in Python
 This program implements Dijkstra's Algorithm for Link State Routing.
 
 The input is a data file that contains the source node and information about every link, 
